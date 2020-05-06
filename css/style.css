@@ -1,0 +1,11 @@
+.carousel-item {
+  height: 240px;
+}
+
+.carousel-caption > h5 {
+  font-size: 2rem;
+}
+
+.carousel-caption > p {
+  font-size: 1.25rem;
+}

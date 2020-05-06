@@ -8,6 +8,9 @@
 
 /*lg Large devices (desktops, 992px and up)*/
 @media (min-width: 992px) {
+  .carousel-item {
+    height: 440px;
+  }
 }
 
 /*xl Extra large devices (large desktops, 1200px and up)*/
